@@ -1,0 +1,21 @@
+.accordion {
+	max-width: 500px;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 50px;
+	background-color: #525252;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.hidden {
+	display: none;
+}
+
+.show {
+	display: block;
+}
